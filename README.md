@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joalmr
-- 👀 I’m interested in Supabase, Fluter, Reactjs & Svelte
-- 🌱 I’m currently learning Reactjs
+- 👀 I’m interested in Supabase, Flutter, Reactjs & Svelte
+- 🌱 I’m currently learning Supabase
 - 💞️ I’m looking to collaborate on Supabase
 - 📫 How to reach me ...
 

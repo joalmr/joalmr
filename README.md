@@ -2,7 +2,7 @@
 - 👀 I’m interested in Supabase, Flutter, Reactjs & Svelte
 - 🌱 I’m currently learning Supabase
 - 💞️ I’m looking to collaborate on Supabase
-- 📫 How to reach me ...
+
 
 <!---
 joalmr/joalmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

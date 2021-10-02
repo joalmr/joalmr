@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joalmr
-- 👀 I’m interested in Supabase, flutter, react-native, svelte & reactjs
+- 👀 I’m interested in supabase, firebase, flutter, react-native, svelte & reactjs
 - 🌱 I’m currently learning Supabase
-- 💞️ I’m looking to collaborate on Supabase
+- 💞️ I’m looking to collaborate on Flutter
 
 
 <!---

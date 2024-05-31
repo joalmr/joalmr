@@ -5,7 +5,7 @@
 
 Currently, I work on this [repository](https://github.com/joalmr/petmeals), developed with Flutter and Firebase.
 
-![Petmeals](https://drive.google.com/file/d/1JE89wHsp5D5Eo-8hdhw05T_8VuzFwZq1/view?usp=sharing)
+![Petmeals](https://ibb.co/n0Hgrgg)
 
 <!---
 joalmr/joalmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

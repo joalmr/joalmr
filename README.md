@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on Flutter & React
 
 
-Currently, I work on this [repository]([http://url.com](https://github.com/joalmr/petmeals), developed with Flutter and Firebase.
+Currently, I work on this [repository](https://github.com/joalmr/petmeals), developed with Flutter and Firebase.
 
 <!---
 joalmr/joalmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on Flutter & React
 
 
-Currently, I work on this [repository](https://github.com/joalmr/petmeals), developed with Flutter and Firebase.
+Currently, I work on this [repository](https://github.com/joalmr/petmeals-zero), developed with Flutter and Firebase.
 
 You can try it on [Google Play](https://play.google.com/store/apps/details?id=com.joalmr.petmeals)
 

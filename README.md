@@ -7,7 +7,7 @@ Currently, I work on this [repository](https://github.com/joalmr/petmeals-zero),
 
 You can try it on [Google Play](https://play.google.com/store/apps/details?id=com.joalmr.petmeals)
 
-[![Petmeals](./assets/petmeals.png)](https://play.google.com/store/apps/details?id=com.joalmr.petmeals)
+[![Vetty](./assets/petmeals.png)](https://play.google.com/store/apps/details?id=com.joalmr.petmeals)
 
 I have other apps that you can check [Calcula tu hipoteca](https://play.google.com/store/apps/details?id=com.aedev.hipoteca) & [Simula tu préstamo](https://play.google.com/store/apps/details?id=com.aedev.prestamo)
 
